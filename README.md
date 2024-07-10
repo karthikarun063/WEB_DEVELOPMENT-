@@ -1,4 +1,4 @@
-#WEB_DEVELOPMENT_BASICS
+# WEB_DEVELOPMENT_BASICS
 
 "Welcome to the landing page for my virtual internship portfolio at CODSOFT! Here, you'll find a showcase of my projects, skills, and achievements. Dive in to explore my work, and don't miss out on the interactive calculator I've built using HTML and CSS. It's a glimpse into my coding abilities and problem-solving skills. Enjoy browsing!"
 
